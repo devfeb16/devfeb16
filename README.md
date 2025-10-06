@@ -41,14 +41,17 @@ We help businesses **grow online**, attract attention, and turn visitors into cl
 
 ## 📊 GitHub Insights
 
+## 📊 GitHub Insights
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_COMPANY_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_COMPANY_USERNAME&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=designndev&show_icons=true&theme=tokyonight&hide_border=true" alt="DesignNDev GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=designndev&theme=tokyonight&hide_border=true" alt="DesignNDev GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_COMPANY_USERNAME&theme=tokyonight" />
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=designndev&theme=tokyonight" alt="DesignNDev GitHub Summary" />
 </p>
+
 
 ---
 
