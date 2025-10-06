@@ -76,7 +76,7 @@ If you have an idea, we’ll help you turn it into a digital experience that sta
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_COMPANY_USERNAME&theme=onestar&no-frame=true&row=1&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=designndev&theme=onestar&no-frame=true&row=1&margin-w=15" />
 </p>
 
 <p align="center">
